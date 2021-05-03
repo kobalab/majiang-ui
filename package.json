@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/kobalab/majiang-ui/issues"
   },
-  "homepage": "https://github.com/kobalab/majiang-ui#readme"
+  "homepage": "https://github.com/kobalab/majiang-ui#readme",
+  "dependencies": {
+    "@kobalab/majiang-core": "0.0.1"
+  }
 }
