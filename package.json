@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/kobalab/majiang-ui#readme",
   "dependencies": {
-    "@kobalab/majiang-core": "0.0.2",
+    "@kobalab/majiang-core": "0.1.2",
     "jquery": "^3.6.0"
   }
 }
