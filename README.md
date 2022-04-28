@@ -10,7 +10,8 @@ $ npm i @kobalab/majiang-ui
 
 ## 使用法
 ```javascript
-const Majiang = require('@kobalab/majiang-ui');
+const Majiang = require('@kobalab/majiang-core');
+Majiang.UI    = require('@kobalab/majiang-ui');
 ```
 
 ## 提供機能
