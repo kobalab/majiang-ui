@@ -2,6 +2,9 @@
   "name": "@kobalab/majiang-ui",
   "version": "0.1.1",
   "description": "麻雀UIライブラリ",
+  "publishConfig": {
+    "access": "public"
+  },
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
