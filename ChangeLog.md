@@ -1,3 +1,7 @@
+### v0.1.2 / 2022-05-08
+
+  - package.json に publishConfig が漏れていたので追加
+
 ### v0.1.1 / 2022-05-08
 
   - package.json のバージョンの誤りを修正
