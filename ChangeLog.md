@@ -1,3 +1,8 @@
+## v0.2.0 / 2022-05-22
+
+  - Majiang.UI.PaipuFile を追加
+  - Majiang.UI.Paipu を追加
+
 ### v0.1.2 / 2022-05-08
 
   - package.json に publishConfig が漏れていたので追加
