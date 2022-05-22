@@ -26,6 +26,8 @@ Majiang.UI    = require('@kobalab/majiang-ui');
 |``Majiang.UI.HuleDialog``| 和了・流局時のダイアログを表示するクラス
 |``Majiang.UI.Player``    | 打牌選択などのUIを実現するクラス
 |``Majiang.UI.GameCtl``   | 対局速度などの付属UIを実現するクラス
+|``Majiang.UI.PaipuFile`` | 牌譜一覧を表示するクラス
+|``Majiang.UI.Paipu``     | 牌譜ビューアを実現するクラス
 |``Majiang.UI.Util``      | ユーティリティ・ルーチン(fade-in/out, selector など)
 
 ## ライセンス
