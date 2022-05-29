@@ -1,3 +1,7 @@
+## v0.3.0 / 2022-05-29
+
+  - Majiang.UI.Analyzer を追加
+
 ## v0.2.0 / 2022-05-22
 
   - Majiang.UI.PaipuFile を追加
