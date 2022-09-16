@@ -1,3 +1,12 @@
+### v0.3.2 / 2022-09-17
+
+  - Majiang.UI.Analyzer
+    - 牌の危険度の評価指標を変更
+  - パッケージを最新化
+    - @kobalab/majiang-core 0.2.9 → 0.2.11
+    - @kobalab/majiang-ai 0.4.0 → 0.6.1
+  - 脆弱性警告に対処(jquery-ui 1.13.1 → 1.13.2)
+
 ### v0.3.1 / 2022-05-30
 
   - Majiang.UI.Analyzer
