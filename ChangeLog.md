@@ -1,3 +1,11 @@
+### v0.3.3 / 2022-10-01
+
+  - Majiang.UI.Player
+    - ノーテン宣言可否の判断に allow_no_daopai() を使用するよう変更
+  - パッケージを最新化
+    - @kobalab/majiang-core 0.2.11 → 0.3.0
+    - @kobalab/majiang-ai 0.6.1 → 0.6.2
+
 ### v0.3.2 / 2022-09-17
 
   - Majiang.UI.Analyzer
