@@ -29,6 +29,7 @@ Majiang.UI    = require('@kobalab/majiang-ui');
 |``Majiang.UI.PaipuFile`` | 牌譜一覧を表示するクラス
 |``Majiang.UI.Paipu``     | 牌譜ビューアを実現するクラス
 |``Majiang.UI.Analyzer``  | 検討モードを実現するクラス
+|``Majiang.UI.PaipuStat`` | 牌譜を集計するクラス
 |``Majiang.UI.Util``      | ユーティリティ・ルーチン(fade-in/out, selector など)
 
 ## ライセンス
