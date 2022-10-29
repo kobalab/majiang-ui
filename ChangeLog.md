@@ -1,3 +1,16 @@
+## v0.4.0 / 2022-10-29
+
+  - Majiang.UI.PaipuStat を追加
+  - Majiang.UI.PaipuFile
+    - 集計表への遷移を追加
+    - tenhou-log のURLを引数で受け取るよう修正
+    - tenhou-log が同一のサイトにある場合、URLを省略するよう修正
+  - Majiang.UI.Analyzer
+    - 危険度 0 (現物)の牌を識別できるよう修正
+  - パッケージを最新化
+    - @kobalab/majiang-core 0.3.0 → 0.3.1
+    - @kobalab/majiang-ai 0.6.2 → 0.6.3
+
 ### v0.3.3 / 2022-10-01
 
   - Majiang.UI.Player
