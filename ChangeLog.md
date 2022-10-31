@@ -1,3 +1,11 @@
+### v0.4.1 / 2022-10-31
+
+  - Majiang.UI.GameCtl
+    - メソッド start(), stop(), shoupai(), he() を追加
+  - パッケージを最新化
+    - @kobalab/majiang-core 0.3.1 → 0.4.0
+    - @kobalab/majiang-ai 0.6.3 → 0.6.4
+
 ## v0.4.0 / 2022-10-29
 
   - Majiang.UI.PaipuStat を追加
