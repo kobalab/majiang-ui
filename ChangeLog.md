@@ -1,3 +1,13 @@
+### v0.4.2 / 2022-11-06
+
+  - Majiang.UI.Paipu
+    - 牌譜再生でオーラスの点移動が反映されないバグを修正
+  - Majiang.UI.HuleDialog
+    - 役なしのケースに対応
+  - パッケージを最新化
+    - @kobalab/majiang-core 0.4.0 → 0.5.0
+    - @kobalab/majiang-ai 0.6.4 → 0.6.5
+
 ### v0.4.1 / 2022-10-31
 
   - Majiang.UI.GameCtl
