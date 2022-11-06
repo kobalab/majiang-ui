@@ -22,7 +22,7 @@ Majiang.UI    = require('@kobalab/majiang-ui');
 |``Majiang.UI.Shoupai``   | 手牌を表示するクラス
 |``Majiang.UI.Shan``      | 牌山を表示するクラス
 |``Majiang.UI.He``        | 捨て牌を表示するクラス
-|``Majiang.UI.Board``     | 卓全体を表示するクラス
+|``Majiang.UI.Board``     | 卓情報を表示するクラス
 |``Majiang.UI.HuleDialog``| 和了・流局時のダイアログを表示するクラス
 |``Majiang.UI.Player``    | 打牌選択などのUIを実現するクラス
 |``Majiang.UI.GameCtl``   | 対局速度などの付属UIを実現するクラス
