@@ -1,3 +1,10 @@
+# v1.0.0 / 2022-11-11
+
+  - 正式版リリース
+  - パッケージを最新化
+    - @kobalab/majiang-core 0.5.0 → 1.0.0
+    - @kobalab/majiang-ai 0.6.5 → 1.0.0
+
 ### v0.4.3 / 2022-11-10
 
   - Majiang.UI.Board
