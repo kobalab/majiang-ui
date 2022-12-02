@@ -1,6 +1,6 @@
 {
   "name": "@kobalab/majiang-ui",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "麻雀UIライブラリ",
   "publishConfig": {
     "access": "public"
@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/kobalab/majiang-ui#readme",
   "dependencies": {
-    "@kobalab/majiang-ai": "^1.0.0",
+    "@kobalab/majiang-ai": "^1.0.1",
     "@kobalab/majiang-core": "^1.0.0",
     "jquery": "^3.6.0",
     "jquery-ui": "^1.13.2"
