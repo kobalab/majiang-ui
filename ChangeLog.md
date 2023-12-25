@@ -1,3 +1,9 @@
+### v1.0.8 / 2023-12-26
+
+  - @kobalab/majiang-core 1.1.1 → 1.1.2
+  - @kobalab/majiang-ai 1.0.7 → 1.0.8
+  - パッケージを最新化(jquery 3.6.0 → 3.7.1)
+
 ### v1.0.7 / 2023-12-19
 
   - @kobalab/majiang-core 1.1.0 → 1.1.1
