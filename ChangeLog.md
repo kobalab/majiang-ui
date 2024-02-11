@@ -1,3 +1,9 @@
+## v1.1.0 / 2024-02-11
+
+  - #3 麻雀サーバーに関する処理を追加
+  - @kobalab/majiang-core 1.1.2 → 1.2.0
+  - @kobalab/majiang-ai 1.0.8 → 1.0.9
+
 ### v1.0.8 / 2023-12-26
 
   - @kobalab/majiang-core 1.1.1 → 1.1.2
