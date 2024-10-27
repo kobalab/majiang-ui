@@ -35,6 +35,10 @@ Majiang.UI    = require('@kobalab/majiang-ui');
 |``Majiang.UI.PaipuEditor``| 牌譜エディタを実現するクラス
 |``Majiang.UI.Util``       | ユーティリティ・ルーチン(fade-in/out, selector など)
 
+## API仕様
+
+* [API仕様](https://github.com/kobalab/majiang-ui/wiki) (執筆中)
+
 ## ライセンス
 [MIT](https://github.com/kobalab/majiang-ui/blob/master/LICENSE)
 
