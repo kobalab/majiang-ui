@@ -1,6 +1,6 @@
 {
   "name": "@kobalab/majiang-ui",
-  "version": "1.4.5",
+  "version": "1.4.6",
   "description": "麻雀UIライブラリ",
   "publishConfig": {
     "access": "public"
